@@ -3,5 +3,6 @@ public class TestJava3 {
         int a = 10, b = 30;
         int mul = a * b;
         System.out.println(mul);
+        System.out.println("jhdfvkjsdvfkds");
     }
 }
